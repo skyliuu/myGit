@@ -12,3 +12,6 @@ eureka:
 spring:
   application:
     name: product-service
+    
+env: default
+branch: master
